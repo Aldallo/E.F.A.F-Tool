@@ -1,5 +1,3 @@
-#علوش
-
 from PIL import Image
 from cryptography.fernet import Fernet
 from random import randint
