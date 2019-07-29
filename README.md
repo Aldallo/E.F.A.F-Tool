@@ -1,5 +1,5 @@
 # E.F.A.F-Tool
-Simple program that encrypts files or texts into images - Other encryption methods may be added later.
+Simple program that encrypts files or texts into images - (Will add files to image encryption soon)
 
 ## Before Using:
 #### Make sure you have both Pillow and Cryptography libraries
